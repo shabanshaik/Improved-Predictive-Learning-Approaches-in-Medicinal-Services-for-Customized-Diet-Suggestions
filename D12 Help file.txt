@@ -1,0 +1,20 @@
+Step 1: Open Anaconda prompt
+
+Step 2: Execute the command "cd vitamin".
+
+Step 3: Now execute the file using the command "python app.py".
+
+Step 4: Copy the link.
+
+Step 5: Paste the link in any web browser.
+
+Step 6: Now the website is displayed.
+
+Step 7: Login into the website using credentials(new user will register to login into the website).
+
+Step 8: After logging into the website, enter person's vitamin A, B, C, D, E, K values in the vitamin form.
+
+Step 9: Click on submit button.
+
+Step 10: Deficiency in vitamin values will be predicted and recommend food to be taken based on the deficiency will be displayed.
+
