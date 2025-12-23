@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+ENV/
+
+# Anaconda
+.conda/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+config.py
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pickle files (trained models - optional)
+# *.pkl
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
